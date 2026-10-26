@@ -1,3 +1,0 @@
-Name: Ishaan Giri
-Track: Security Analyst
-Task: Basic Firewall Configuration with UFW
